@@ -81,6 +81,8 @@ print(classification_report(y_test, y_pred))
 
 ## Output:
 
+<img width="665" height="509" alt="Screenshot 2026-03-13 112707" src="https://github.com/user-attachments/assets/ffd90faa-1e29-4f7b-ae0f-e73a9ce60ca6" />
+<img width="558" height="187" alt="Screenshot 2026-03-13 112726" src="https://github.com/user-attachments/assets/6cfe1b52-9a68-4d9b-b198-829f2b9c4ea8" />
 
 
 
